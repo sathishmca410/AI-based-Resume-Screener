@@ -70,29 +70,28 @@ scikit-learn==1.7.2
 
 7. Installation Steps
 
- 1. Clone the repository:
+    1. Clone the repository:
 
- git clone <repository-url>
+     git clone <repository-url>
 
- cd AI-based Resume Screener
+     cd AI-based Resume Screener
 
- 2. Create a virtual environment:
+    2. Create a virtual environment:
 
- python -m venv venv
+     python -m venv venv
 
- venv\Scripts\activate
+     venv\Scripts\activate
 
-Install dependencies:
+    Install dependencies:
 
-python -m pip install -r requirements.txt
-
-
-Run the Flask app:
-
-python app.py
+    python -m pip install -r requirements.txt
 
 
-Open your browser and navigate to: http://127.0.0.1:5000/
+    Run the Flask app:
+
+    python app.py
+
+    Open your browser and navigate to: http://127.0.0.1:5000/
 
 8. Usage Instructions
 
