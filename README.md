@@ -22,20 +22,22 @@ Similarity Scoring: Calculates a percentage match for each resume.
 Results Display: Displays match percentage and highlighted resume content in a structured format.
 
 4. Project Structure
-AI-based Resume Screener/
-│
+AI-based Resume Screener
 
 ├── app.py                 # Main Flask application
 
 ├── requirements.txt       # Required Python packages
 
 ├── utils/
-│   └── extractor.py       # Functions to extract text from PDF and DOCX resumes
+
+    └── extractor.py       # Functions to extract text from PDF and DOCX resumes
 
 ├── templates/
-│   └── index.html         # Frontend HTML template
+
+    └── index.html         # Frontend HTML template
 
 └── static/
+    
     └── style.css          # CSS file for styling
 
 5. Technology Stack
